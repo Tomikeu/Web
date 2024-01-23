@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.nadpis{
+
+}
+
+header{
+    background-color: rgb(150, 150, 150);
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#homeh{
+    text-align: center;
+}
+
+nav{
+    display: flex;
+    background-color: rgb(150, 150, 150);
+    border-radius: 10px;
+    justify-content: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.links{
+    margin-right: 20px;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+#homep{
+    margin-left: 20px;
+}
+
+main{
+    background-color: rgb(150, 150, 150);
+}
